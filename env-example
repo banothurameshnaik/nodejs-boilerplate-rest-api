@@ -1,0 +1,4 @@
+ENVIROMENT=local
+PORT=8000
+PROJECT=nodejs-boilerplate-rest-api
+LOG_LEVEL=debug
