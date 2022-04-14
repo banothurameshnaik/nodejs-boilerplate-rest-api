@@ -1,4 +1,7 @@
-ENVIROMENT=local
+ENVIRONMENT=local
 PORT=8000
-PROJECT=nodejs-boilerplate-rest-api
+APP_NAME=my-project
 LOG_LEVEL=debug
+MONGODB_URI=mongodb://localhost/dummy-db
+TOKEN_SECRET=my-secret
+TOKEN_EXPIRES_IN="1 day"
